@@ -15,6 +15,8 @@ Dependencies
 - angular2-chartjs@0.5.1
 
 > Note: Please import the boxplot plugin as `.js` or `.min.js` file instead of the `.mjs` default.
+
+![image](https://user-images.githubusercontent.com/5220584/55540115-8d8d4280-56c2-11e9-847f-afb303e557d2.png)
 ---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
