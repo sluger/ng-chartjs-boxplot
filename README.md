@@ -1,5 +1,22 @@
 # NgChartjsBoxplot
 
+This demonstration repository is based on the [codesandbox example](https://codesandbox.io/s/9xpn7lxvp) by [sgratzl's](https://github.com/sgratzl).
+
+It demonstrates the usage of the [Chart.js Box and Violin Plot](https://github.com/datavisyn/chartjs-chart-box-and-violin-plot) plugin within the Angular 7 environment.
+
+Global npm modules
+- npm@6.7.0
+- node@8.15.1
+- @angular/cli@7.3.8
+
+Dependencies
+- chart.js@2.7.2
+- chartjs-chart-box-and-violin-plot@1.4.1
+- angular2-chartjs@0.5.1
+
+> Note: Please import the boxplot plugin as `.js` or `.min.js` file instead of the `.mjs` default.
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
